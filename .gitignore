@@ -1,0 +1,57 @@
+# Virtual Environment
+venv/
+
+# Environment Variables
+.env
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Runtime Files
+chat_history.json
+metrics_log.json
+
+# Vector Database
+vectorstore/
+
+# Generated Reports
+reports/
+
+# VS Code
+.vscode/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# HuggingFace Models
+models/
+
+# Vector Database
+vectorstore/
+
+# Python Virtual Environment
+venv/
+
+# Environment Variables
+.env
+
+# Runtime Files
+chat_history.json
+metrics_log.json
+
+# Generated Reports
+reports/
+
+# Personal files
+data/my_signature.jpeg
+data/vijaya_sign.jpeg
+
+# Personal files
+data/my_signature.jpeg
+data/vijaya_sign.jpeg
+data/vyshu.jpeg
+data/MONICA THUPPAKULA.pdf
+data/diabetes_uncle.pdf
+data/srinadh.pdf
